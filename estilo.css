@@ -264,3 +264,93 @@ header nav a:hover:before{
         transform: translateX(var(--relleno--));
     }
 }
+
+
+
+/* trabajo en la seccion service */
+.service{
+    margin: 150px 150px;
+}
+.service-texto{
+    text-align: center;
+}
+.service-texto h3{
+    color: #00A78E;
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.service-texto h1{
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #283550;
+}
+.service-texto h1::before{
+    content: "";
+    border-bottom: 2px solid #00A78E;
+    position: absolute;
+    bottom: 0;
+    width: 5%;
+    transition: 0.5s;
+}
+.service-texto h1:hover:before{
+    content: "";
+    border-bottom: 2px solid #00A78E;
+    position: absolute;
+    bottom: 0;
+    width: 30%;
+}
+.reng{
+    display: flex;
+}
+.tarjeta{
+    margin: 10px;
+    width: 300px;
+    height: 250px;
+    border-radius: 5px;
+    box-shadow: 0 0.1rem 0.4rem rgba(0, 0, 0, 20%);
+    transition: .3s;
+}
+.int-tarjeta{
+    margin: 25px;
+}
+.service h2{
+    font-family: 'Nunito', sans-serif;
+    color: #283550;
+}
+.service p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #778095;
+    width: 100%;
+}
+.icono{
+    background-color: #00A78E;
+    width: 60px;
+    height: 60px;
+    border-radius: 10px 10px 0px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tarjeta:hover{
+    background-color: #00A78E;
+}
+.tarjeta:hover p{
+    color: #FFFFFF;
+}
+.tarjeta:hover .icono{
+    background-color: #FFFFFF;
+}
+.tarjeta:hover svg{
+    fill: #00A78E;
+
+}
+.tarjeta:hover h2{
+    color: #FFFFFF;
+}
