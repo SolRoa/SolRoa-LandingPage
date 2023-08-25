@@ -354,3 +354,87 @@ header nav a:hover:before{
 .tarjeta:hover h2{
     color: #FFFFFF;
 }
+
+
+
+
+/* trabajo en la seccion portafolio */
+.portafolio{
+    margin: 0px 150px;
+}
+.arriba{
+    margin-bottom: 50px;
+}
+.arriba h3{
+    color: #00A78E;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.arriba h1{
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #283550;
+}
+.arriba h1::before{
+    content: "";
+    border-bottom: 2px solid #00A78E;
+    position: absolute;
+    bottom: 0;
+    width: 5%;
+    transition: 0.5s;
+}
+.arriba h1:hover:before{
+    content: "";
+    border-bottom: 2px solid #00A78E;
+    position: absolute;
+    bottom: 0;
+    width: 35%;
+}
+.galeria{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+.portafolio img{
+    width: 100%;
+    height: 300px;
+    box-shadow: 0 0.1rem 0.4rem rgba(0, 0, 0, 30%);
+    border-radius: 10px;
+}
+.g{
+    width: 30%;
+    transition: .3s;
+
+}
+.g-oscuro{
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    color: #283550;
+
+}
+.g-claro{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #778095;
+    width: 100%;
+    font-size: 14px;
+}
+.g:hover .g-oscuro{
+    color: #00A78E;
+}
+.flechas{
+    text-align: center;
+    margin-top: 20px;
+}
+.flechas svg{
+    cursor: pointer;
+    transition: .3s;
+}
+.flechas svg:hover{
+    fill: #00A78E;
+}
