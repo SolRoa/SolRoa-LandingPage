@@ -1,0 +1,59 @@
+html{
+    --relleno--:0%; /*varible de barras de progreso*/
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* trabajo en el header */
+header{
+    position: absolute;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 150px;
+    
+}
+.logo{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    
+}
+.logo span{
+    color: #00A78E; 
+}
+header nav a{
+    position: relative;
+    color: #F9F9F9;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    margin: 0px 20px;
+}
+header nav{
+    text-align: end;
+    width: 100%;
+}
+header nav a::before{
+    content: "";
+    border-bottom: 2px solid #F9F9F9;
+    position: absolute;
+    bottom: 0px;
+    width: 10%;
+    left: 0;
+    transition: 0.5s;
+}
+header nav a:hover:before{
+    content: "";
+    border-bottom: 2px solid #F9F9F9;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    left: 0;
+}
