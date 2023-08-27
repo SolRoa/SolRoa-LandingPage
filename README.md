@@ -1,5 +1,5 @@
 <h1>Trabajo Final</h1>
-<h4>Alumna:Roa María Sol</h4>
+<h4>Alumna: Roa María Sol</h4>
 <h3>Diplomatura en diseño Web y Multimedial</h3>
 
 
