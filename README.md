@@ -19,7 +19,7 @@ Antes de comenzar con la codificación, realicé prácticas adicionales a las pr
 Luego de practicar y acercándose la fecha de entrega, inicié la codificación del diseño elegido. Avancé por secciones, primero creando el código HTML y las etiquetas, así como la parte textual, y luego, casi simultáneamente, trabajé en la edición visual utilizando CSS. 
 
 <h5>:ballot_box_with_check: Tipografías y Colores</h5>
-Desde el inicio del proyecto, busqué identificar las tipografías utilizadas en los textos. Para esto, utilicé diversas aplicaciones móviles, principalmente FindFont. Para seleccionar los colores, empleé una extensión de Google que se presentó en clase. 
+Desde el inicio del proyecto, busqué identificar las tipografías utilizadas en los textos. Para esto, utilicé diversas aplicaciones móviles, principalmente Find My Font. Para seleccionar los colores, empleé una extensión de Google que se presentó en clase. 
 
 <h5>:ballot_box_with_check: Header y Hero</h5>
  Estas dos secciones se editaron visualmente al mismo tiempo, ya que compartían el fondo. Luego, apliqué una animación de tipo hover al navegador, que más adelante se utilizará en los títulos de las demás secciones y en una pequeña sección ubicada en el lado izquierdo de la pantalla que contiene mis redes sociales. La imagen personal la capturé con un teléfono móvil y eliminé el fondo utilizando una aplicación de edición de imágenes.
