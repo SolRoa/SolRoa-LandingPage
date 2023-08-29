@@ -38,7 +38,7 @@ En esta sección, muestro los desafíos mencionados anteriormente. Al hacer clic
 En esta parte, presento una línea de tiempo. Para diseñarla, utilicé atributos como "position" y "display flex", entre otros. También añadí animaciones KeyFrames para su entrada y movimiento, además de una animación tipo hover.
 
 <h5>:ballot_box_with_check: Contácto</h5>
-La sección de contacto se encuentra al final de la página, en el footer. En ella, proporciono mi correo electrónico personal, enlaces a mis redes sociales y el mismo navegador que se encuentra en el header. Puedes acceder a esta sección desde el navegador del header, al igual que a todas las demás secciones, o a través del botón "Contáctame" ubicado en el hero.
+La sección de contacto se encuentra al final de la página, en el footer. En ella, proporciono mi correo electrónico personal, enlaces a mis redes sociales y el mismo navegador que se encuentra en el header. Se puede acceder a esta sección desde el navegador del header, al igual que a todas las demás secciones, o a través del botón "Contáctame" ubicado en el hero.
 
 <h2>:large_blue_circle: Secciones no codificadas</h2>
 Después de consultar en clase y leer las pautas del proyecto, decidí eliminar varias secciones del diseño original. Estas secciones incluyen "Servicios", "Testimonios" y el "cartel" de color verde de contratación.
