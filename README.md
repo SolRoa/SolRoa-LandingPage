@@ -32,7 +32,7 @@ Desde el inicio del proyecto, busqué identificar las tipografías utilizadas en
 Esta sección se centra principalmente en seis "tarjetas" ubicadas en el centro de la pantalla, que contienen información sobre diferentes habilidades que puedo ofrecer en mi trabajo. Aunque no todas son verdad en la actualidad, espero poder actualizarlas con información verídica a lo largo de mi carrera. Para esta sección, utilicé varias etiquetas "div", cada una de las cuales responde a una animación.
 
 <h5>:ballot_box_with_check: Portafolio</h5>
-En esta sección, muestro los desafíos mencionados anteriormente. Al hacer clic en ellos, se abren en otra pantalla. Originalmente, estaba diseñado como una galería, pero para lograr esa funcionalidad sería necesario utilizar JavaScript, lo cual no está incluido en este curso. Por lo tanto, las flechas ubicadas debajo de los trabajos no funcionan. 
+En esta sección, muestro los desafíos mencionados anteriormente. Al hacer clic en ellos, se abren en otra pantalla. Originalmente, estaba diseñado como una galería, pero para lograr esa funcionalidad sería necesario utilizar JavaScript, lo cual no está incluido en este curso. Por lo tanto, las flechas ubicadas debajo de los trabajos funcionan solo de manera visual.
 
 <h5>:ballot_box_with_check: Experiencia</h5>
 En esta parte, presento una línea de tiempo. Para diseñarla, utilicé atributos como "position" y "display flex", entre otros. También añadí animaciones KeyFrames para su entrada y movimiento, además de una animación tipo hover.
